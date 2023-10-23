@@ -1,0 +1,23 @@
+body{
+    background-color: red; /*Set the page's background color to red.*/
+    direction: rtl;  /*Align all element to right*/
+    
+}
+p{
+color: black ;/*Change the text color of all <p> elements to "red" - (black).*/
+text-indent: 20px; /*Indent the first line of the <p> element with 20px*/
+font-family: verdana; font-size:20px ; /*Set the font for <p> to "Verdana and size 50px*/
+text-transform: capitalize;    /*and text in <p> to capitalized letters.*/
+}
+.parent{
+    text-transform: uppercase; /*Style text in parent class to uppercase letters*/
+}
+.child{
+
+
+}
+
+.title{
+    text-shadow: 2px 2px 2px green;/*Set a "2px" horizontal, and "2px" vertical, "green" text shadow for the class title element, with a "5px" blur radius*/
+    
+}
